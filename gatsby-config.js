@@ -3,11 +3,11 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://sumaiyasaima05.github.io/`,
     // Your Name
-    name: 'Sumaiya Saima SUltana',
+    name: 'Sumaiya Saima Sultana',
     // Main Site Title
     title: `Sumaiya Saima  | AI Research Engineer`,
     // Description that goes under your name in main bio
-    description: `Researcher in Training`,
+    description: `AI Research Engineer`,
     // Optional: Twitter account handle
     //author: `@rfitzio`,
     // Optional: Github account URL
@@ -15,11 +15,12 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sumaiyasaima/`,
     // Content of the About Me section
-    about: `Artificial Intelligence Engineer proficient in Deep Learning and 
+    about: `Hi! I am Sumaiya Saima.I am an AI research Engineer proficient in Deep Learning and 
     Machine Learning based research and implementations for AI product development with agile methodologies. 
-    Has a demonstrated history of working with a research group for quality evaluation and standardization of AI development process. 
-    Experienced in requirement engineering, ML modeling, robustness analysis of end product. 
-    Bachelor's degree focused in Mechanical Engineering from Bangladesh University of Engineering and Technology. `,
+    Currently I am deplyoyed at AIST from Hiperdyne Corporation and my primary focus here is quality evaluation and standardization of the agile AI development process. 
+    My work includes requirement engineering , problem domain analysis,surveying and implementing
+    state-of-the art ML technologies, ML modeling, robustness analysis of various ML products etc.
+    I have a Bachelor's degree focused in Mechanical Engineering from Bangladesh University of Engineering and Technology. `,
     
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
@@ -27,19 +28,19 @@ module.exports = {
         name: 'Literature Reviews',
         description:
           'A big part of my job is to survey papers from different domains of Artificial Intelligence.The following link contains brief litearture reviews of some of the domains',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/SumaiyaSaima05/Portfolio/tree/master/Literature%20reviews',
       },
       {
         name: 'Problem solving using ML',
         description:
           'Check out the problems I solved using ML ',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+        link: 'https://github.com/SumaiyaSaima05/Portfolio/tree/master/Problem%20solving%20using%20AI',
       },
       {
         name: 'Undergraduate works',
         description:
           'I was a Robotics Enthusiastic in my undergrad years.Check out the brief summaries of the projects I did following my passion ',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/SumaiyaSaima05/Portfolio/tree/master/Undergrad%20works',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -130,13 +131,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `devfolio`,
-        short_name: `devfolio`,
+        name: `sumaiyasaima`,
+        short_name: `sumaiyasaima`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
-        icon: `src/images/icon.png`,
+        icon: `src/images/icon.jpg`,
       },
     },
   ],
