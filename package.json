@@ -1,7 +1,7 @@
 {
   "name": "Sumaiya Saima",
   "private": true,
-  "description": "A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS",
+  "description": "Personal portfolio",
   "version": "0.1.0",
   "author": "Forked from Ryan by Sumaiya",
   "dependencies": {
@@ -41,7 +41,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "deploy": "gatsby build && gh-pages -d public -b master",
+    "deploy": "gatsby build && gh-pages -d public -b source",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
