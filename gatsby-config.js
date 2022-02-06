@@ -45,36 +45,36 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Hiperdyne Corporation',
+        description: 'Artificial Intelligence Research Engineer, July 2019 - Present',
+        link: 'https://hiperdyne.com/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Hiperdyne Corporation',
+        description: 'Artifical Inteligence Trainee, November 2018 - April 2019',
+        link: 'https://hiperdyne.com/',
       },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+      //{
+        //name: 'Hooli',
+        //description: 'Full-Stack Developer, May 2015 - December 2017',
+        //link: 'https://github.com/RyanFitzgerald/devfolio',
+      //},
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Python, C++, SQL, Ruby on Rails',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: ' MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'TensorFlow ,Git, Jupyter',
       },
     ],
   },
