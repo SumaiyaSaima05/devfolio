@@ -1,39 +1,44 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://sumaiyasaima05.github.io/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Sumaiya Saima SUltana',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Sumaiya Saima  | AI Research Engineer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Researcher in Training`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/SumaiyaSaima05`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/sumaiyasaima/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Artificial Intelligence Engineer proficient in Deep Learning and 
+    Machine Learning based research and implementations for AI product development with agile methodologies. 
+    Has a demonstrated history of working with a research group for quality evaluation and standardization of AI development process. 
+    Experienced in requirement engineering, ML modeling, robustness analysis of end product. 
+    Bachelor's degree focused in Mechanical Engineering from Bangladesh University of Engineering and Technology. `,
+    
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Literature Reviews',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+          'A big part of my job is to survey papers from different domains of Artificial Intelligence.The following link contains brief litearture reviews of some of the domains',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Problem solving using ML',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+          'Check out the problems I solved using ML ',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Undergraduate works',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+          'I was a Robotics Enthusiastic in my undergrad years.Check out the brief summaries of the projects I did following my passion ',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
